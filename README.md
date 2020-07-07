@@ -18,10 +18,6 @@ Below are a list of methods we had to recreate.
 - multiply_els
 
 
-
-
-![screenshot]()
-
 ## Built With
 
 - RUBY
